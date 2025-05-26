@@ -70,7 +70,7 @@ Recognized text:
 
 ## ✍️ Author
 
-* **Your Name** – [GitHub Profile](https://github.com/MahirHossain12)
+* **Mahir Hossain** – [GitHub Profile](https://github.com/MahirHossain12)
 ---
 
 ## 📃 License
